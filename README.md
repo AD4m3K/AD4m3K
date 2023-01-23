@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AD4m3K
 - 👀 I’m interested in LUA
-- ❗ i'm html and css developer and I make websites
+- ❗ i'm html and css developer
 - 🌱 I’m currently learning ...
 - 📫 How to reach me ...  dc  .Definitely not AD4m3K#5497
